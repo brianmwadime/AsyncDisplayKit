@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "AsyncDisplayKit"
+  s.name         = "GDKAsyncDisplayKit"
   s.version      = "0.0.1"
   s.summary      = "AsyncDisplayKit"
   s.homepage     = "https://github.com/donik/AsyncDisplayKit"
