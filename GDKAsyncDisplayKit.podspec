@@ -1,5 +1,4 @@
 Pod::Spec.new do |s|
-
   s.name         = "GDKAsyncDisplayKit"
   s.version      = "0.0.3"
   s.summary      = "AsyncDisplayKit"
