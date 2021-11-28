@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import <pthread/sched.h>
 
-#import <AsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

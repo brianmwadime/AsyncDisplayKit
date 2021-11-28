@@ -12,7 +12,7 @@
 #if AS_ENABLE_TEXTNODE
 
 #import "ASLayoutManager.h"
-#import <AsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
 
 #include <memory>
 

@@ -9,8 +9,8 @@
 
 #import "ASMainSerialQueue.h"
 
-#import <AsyncDisplayKit/ASThread.h>
-#import <AsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
 
 @interface ASMainSerialQueue ()
 {

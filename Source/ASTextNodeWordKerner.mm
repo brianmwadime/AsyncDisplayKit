@@ -11,7 +11,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <AsyncDisplayKit/ASTextNodeTypes.h>
+#import <GDKAsyncDisplayKit/ASTextNodeTypes.h>
 
 @implementation ASTextNodeWordKerner
 

@@ -12,7 +12,7 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <tgmath.h>
 
-#import <AsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
 
 
 #ifndef CGFLOAT_EPSILON

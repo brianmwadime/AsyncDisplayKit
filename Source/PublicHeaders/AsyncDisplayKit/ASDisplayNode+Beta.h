@@ -8,8 +8,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASAvailability.h>
-#import <AsyncDisplayKit/ASDisplayNode.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASExperimentalFeatures.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASExperimentalFeatures.h>
 
 @protocol ASConfigurationDelegate;
 

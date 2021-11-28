@@ -7,10 +7,10 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/UIResponder+AsyncDisplayKit.h>
+#import <GDKAsyncDisplayKit/UIResponder+AsyncDisplayKit.h>
 
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
 #import "ASResponderChainEnumerator.h"
 
 @implementation UIResponder (AsyncDisplayKit)

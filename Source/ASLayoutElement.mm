@@ -7,13 +7,13 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASDisplayNode+FrameworkPrivate.h>
-#import <AsyncDisplayKit/ASAvailability.h>
-#import <AsyncDisplayKit/ASLayout.h>
-#import <AsyncDisplayKit/ASLayoutElement.h>
-#import <AsyncDisplayKit/ASThread.h>
-#import <AsyncDisplayKit/ASObjectDescriptionHelpers.h>
-#import <AsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode+FrameworkPrivate.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASLayout.h>
+#import <GDKAsyncDisplayKit/ASLayoutElement.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASObjectDescriptionHelpers.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
 
 #import <atomic>
 #include <pthread.h>
@@ -22,7 +22,7 @@ using AS::MutexLocker;
 
 #if YOGA
   #import YOGA_HEADER_PATH
-  #import <AsyncDisplayKit/ASYogaUtilities.h>
+  #import <GDKAsyncDisplayKit/ASYogaUtilities.h>
 #endif
 
 #pragma mark - ASLayoutElementContext

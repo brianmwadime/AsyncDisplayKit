@@ -7,12 +7,12 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
 
 #import <UIKit/UIKit.h>
 
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASDisplayNodeExtras.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASDisplayNodeExtras.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

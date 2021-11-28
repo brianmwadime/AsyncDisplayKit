@@ -8,7 +8,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
 
 /** The direction children are stacked in */
 typedef NS_ENUM(NSUInteger, ASStackLayoutDirection) {

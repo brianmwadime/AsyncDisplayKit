@@ -9,16 +9,16 @@
 
 #import "ASLayoutTransition.h"
 
-#import <AsyncDisplayKit/NSArray+Diffing.h>
+#import <GDKAsyncDisplayKit/NSArray+Diffing.h>
 
-#import <AsyncDisplayKit/ASLayout.h>
+#import <GDKAsyncDisplayKit/ASLayout.h>
 #import "ASDisplayNodeInternal.h" // Required for _insertSubnode... / _removeFromSupernode.
 
 #import <queue>
 
 #if AS_IG_LIST_KIT
 #import <IGListKit/IGListKit.h>
-#import <AsyncDisplayKit/ASLayout+IGListKit.h>
+#import <GDKAsyncDisplayKit/ASLayout+IGListKit.h>
 #endif
 
 using AS::MutexLocker;

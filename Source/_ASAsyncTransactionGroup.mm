@@ -7,11 +7,11 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
 
-#import <AsyncDisplayKit/_ASAsyncTransaction.h>
-#import <AsyncDisplayKit/_ASAsyncTransactionGroup.h>
-#import <AsyncDisplayKit/_ASAsyncTransactionContainer.h>
+#import <GDKAsyncDisplayKit/_ASAsyncTransaction.h>
+#import <GDKAsyncDisplayKit/_ASAsyncTransactionGroup.h>
+#import <GDKAsyncDisplayKit/_ASAsyncTransactionContainer.h>
 #import "_ASAsyncTransactionContainer+Private.h"
 
 @implementation _ASAsyncTransactionGroup {

@@ -7,19 +7,19 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASLayout.h>
+#import <GDKAsyncDisplayKit/ASLayout.h>
 
 #import <atomic>
 #import <queue>
 
-#import <AsyncDisplayKit/ASCollections.h>
-#import <AsyncDisplayKit/ASDimension.h>
+#import <GDKAsyncDisplayKit/ASCollections.h>
+#import <GDKAsyncDisplayKit/ASDimension.h>
 #import "ASLayoutSpecUtilities.h"
 #import "ASLayoutSpec+Subclasses.h"
 
-#import <AsyncDisplayKit/ASEqualityHelpers.h>
-#import <AsyncDisplayKit/ASInternalHelpers.h>
-#import <AsyncDisplayKit/ASObjectDescriptionHelpers.h>
+#import <GDKAsyncDisplayKit/ASEqualityHelpers.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASObjectDescriptionHelpers.h>
 
 NSString *const ASThreadDictMaxConstraintSizeKey = @"kASThreadDictMaxConstraintSizeKey";
 

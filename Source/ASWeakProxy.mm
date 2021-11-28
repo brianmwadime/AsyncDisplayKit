@@ -8,8 +8,8 @@
 //
 
 #import "ASWeakProxy.h"
-#import <AsyncDisplayKit/ASObjectDescriptionHelpers.h>
-#import <AsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASObjectDescriptionHelpers.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
 
 @implementation ASWeakProxy
 

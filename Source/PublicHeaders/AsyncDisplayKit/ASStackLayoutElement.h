@@ -8,9 +8,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASDimension.h>
+#import <GDKAsyncDisplayKit/ASDimension.h>
 
-#import <AsyncDisplayKit/ASStackLayoutDefines.h>
+#import <GDKAsyncDisplayKit/ASStackLayoutDefines.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

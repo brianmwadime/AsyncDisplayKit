@@ -9,11 +9,11 @@
 
 #import <UIKit/UIKit.h>
 
-#import <AsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
 
 #if AS_ENABLE_TEXTNODE
 
-#import <AsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
 
 /**
  A threadsafe container for the TextKit components that ASTextKit uses to lay out and truncate its text.

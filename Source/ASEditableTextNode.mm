@@ -7,16 +7,16 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASEditableTextNode.h>
+#import <GDKAsyncDisplayKit/ASEditableTextNode.h>
 
 #import <objc/message.h>
 #import <tgmath.h>
 
-#import <AsyncDisplayKit/ASDisplayNode+Subclasses.h>
-#import <AsyncDisplayKit/ASEqualityHelpers.h>
-#import <AsyncDisplayKit/ASTextKitComponents.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode+Subclasses.h>
+#import <GDKAsyncDisplayKit/ASEqualityHelpers.h>
+#import <GDKAsyncDisplayKit/ASTextKitComponents.h>
 #import "ASTextNodeWordKerner.h"
-#import <AsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
 
 @implementation ASEditableTextNodeTargetForAction
 

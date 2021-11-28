@@ -10,7 +10,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import <AsyncDisplayKit/ASContextTransitioning.h>
+#import <GDKAsyncDisplayKit/ASContextTransitioning.h>
 
 @class ASLayout;
 @class _ASTransitionContext;

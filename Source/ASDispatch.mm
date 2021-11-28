@@ -7,7 +7,7 @@
 //
 
 #import "ASDispatch.h"
-#import <AsyncDisplayKit/ASConfigurationInternal.h>
+#import <GDKAsyncDisplayKit/ASConfigurationInternal.h>
 
 
 // Prefer C atomics in this file because ObjC blocks can't capture C++ atomics well.

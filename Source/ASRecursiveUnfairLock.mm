@@ -6,7 +6,7 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASRecursiveUnfairLock.h>
+#import <GDKAsyncDisplayKit/ASRecursiveUnfairLock.h>
 
 #import <stdatomic.h>
 

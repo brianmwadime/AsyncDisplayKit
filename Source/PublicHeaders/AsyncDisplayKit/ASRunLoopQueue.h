@@ -9,8 +9,8 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASLocking.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASLocking.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

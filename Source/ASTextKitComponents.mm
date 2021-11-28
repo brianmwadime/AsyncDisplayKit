@@ -7,9 +7,9 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASTextKitComponents.h>
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASMainThreadDeallocation.h>
+#import <GDKAsyncDisplayKit/ASTextKitComponents.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASMainThreadDeallocation.h>
 
 #import <tgmath.h>
 

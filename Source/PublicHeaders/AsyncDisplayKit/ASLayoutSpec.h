@@ -8,10 +8,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASLayoutElement.h>
-#import <AsyncDisplayKit/ASAsciiArtBoxCreator.h>
-#import <AsyncDisplayKit/ASLocking.h>
-#import <AsyncDisplayKit/ASObjectDescriptionHelpers.h>
+#import <GDKAsyncDisplayKit/ASLayoutElement.h>
+#import <GDKAsyncDisplayKit/ASAsciiArtBoxCreator.h>
+#import <GDKAsyncDisplayKit/ASLocking.h>
+#import <GDKAsyncDisplayKit/ASObjectDescriptionHelpers.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

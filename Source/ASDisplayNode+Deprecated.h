@@ -17,7 +17,7 @@
 
 #pragma once
 
-#import <AsyncDisplayKit/ASDisplayNode.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode.h>
 
 @interface ASDisplayNode (Deprecated)
 

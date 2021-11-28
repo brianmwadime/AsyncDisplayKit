@@ -7,11 +7,11 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASAvailability.h>
-#import <AsyncDisplayKit/ASConfigurationInternal.h>
-#import <AsyncDisplayKit/ASObjectDescriptionHelpers.h>
-#import <AsyncDisplayKit/ASRunLoopQueue.h>
-#import <AsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASConfigurationInternal.h>
+#import <GDKAsyncDisplayKit/ASObjectDescriptionHelpers.h>
+#import <GDKAsyncDisplayKit/ASRunLoopQueue.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
 #import "ASSignpost.h"
 #import <QuartzCore/QuartzCore.h>
 #import <cstdlib>

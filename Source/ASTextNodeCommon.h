@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <AsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
 
 #define AS_TEXT_ALERT_UNIMPLEMENTED_FEATURE() { \
   static dispatch_once_t onceToken; \

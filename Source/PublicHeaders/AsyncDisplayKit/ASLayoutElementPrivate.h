@@ -8,7 +8,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASDimension.h>
+#import <GDKAsyncDisplayKit/ASDimension.h>
 #import <UIKit/UIGeometry.h>
 
 @protocol ASLayoutElement;

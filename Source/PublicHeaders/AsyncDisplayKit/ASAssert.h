@@ -12,7 +12,7 @@
 #import <UIKit/UIKit.h>
 #import <Foundation/NSException.h>
 #import <pthread.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
 
 #if !defined(NS_BLOCK_ASSERTIONS)
   #define ASDISPLAYNODE_ASSERTIONS_ENABLED 1

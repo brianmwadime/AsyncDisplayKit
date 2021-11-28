@@ -7,16 +7,16 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import <GDKAsyncDisplayKit/ASLayoutSpec.h>
 #import "ASLayoutSpecPrivate.h"
 
 #import "ASLayoutSpec+Subclasses.h"
 
-#import <AsyncDisplayKit/ASCollections.h>
+#import <GDKAsyncDisplayKit/ASCollections.h>
 #import "ASLayoutElementStylePrivate.h"
-#import <AsyncDisplayKit/ASTraitCollection.h>
-#import <AsyncDisplayKit/ASEqualityHelpers.h>
-#import <AsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASTraitCollection.h>
+#import <GDKAsyncDisplayKit/ASEqualityHelpers.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
 
 #import <objc/runtime.h>
 #import <map>

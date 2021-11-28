@@ -7,9 +7,9 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/_ASTransitionContext.h>
-#import <AsyncDisplayKit/ASDisplayNode.h>
-#import <AsyncDisplayKit/ASLayout.h>
+#import <GDKAsyncDisplayKit/_ASTransitionContext.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode.h>
+#import <GDKAsyncDisplayKit/ASLayout.h>
 
 
 NSString * const ASTransitionContextFromLayoutKey = @"org.asyncdisplaykit.ASTransitionContextFromLayoutKey";

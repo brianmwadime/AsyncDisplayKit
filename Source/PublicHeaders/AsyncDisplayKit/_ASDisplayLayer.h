@@ -8,8 +8,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASBlockTypes.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASBlockTypes.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

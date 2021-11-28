@@ -6,12 +6,12 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASMainThreadDeallocation.h>
+#import <GDKAsyncDisplayKit/ASMainThreadDeallocation.h>
 
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASDisplayNodeExtras.h>
-#import <AsyncDisplayKit/ASInternalHelpers.h>
-#import <AsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASDisplayNodeExtras.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
 
 #import <objc/runtime.h>
 #import <UIKit/UIKit.h>

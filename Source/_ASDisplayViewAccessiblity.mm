@@ -9,10 +9,10 @@
 
 #ifndef ASDK_ACCESSIBILITY_DISABLE
 
-#import <AsyncDisplayKit/_ASDisplayView.h>
-#import <AsyncDisplayKit/ASAvailability.h>
-#import <AsyncDisplayKit/ASDisplayNodeExtras.h>
-#import <AsyncDisplayKit/ASDisplayNode+FrameworkPrivate.h>
+#import <GDKAsyncDisplayKit/_ASDisplayView.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASDisplayNodeExtras.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode+FrameworkPrivate.h>
 #import "ASDisplayNodeInternal.h"
 
 #import <queue>

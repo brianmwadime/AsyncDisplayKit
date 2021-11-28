@@ -7,9 +7,9 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASDisplayNode+Ancestry.h>
-#import <AsyncDisplayKit/ASThread.h>
-#import <AsyncDisplayKit/ASDisplayNodeExtras.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode+Ancestry.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASDisplayNodeExtras.h>
 
 AS_SUBCLASSING_RESTRICTED
 @interface ASNodeAncestryEnumerator : NSEnumerator

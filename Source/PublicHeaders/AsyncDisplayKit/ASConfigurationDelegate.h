@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASConfiguration.h>
+#import <GDKAsyncDisplayKit/ASConfiguration.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

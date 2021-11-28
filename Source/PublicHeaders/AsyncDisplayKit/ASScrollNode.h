@@ -8,8 +8,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASDisplayNode.h>
-#import <AsyncDisplayKit/ASScrollDirection.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode.h>
+#import <GDKAsyncDisplayKit/ASScrollDirection.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

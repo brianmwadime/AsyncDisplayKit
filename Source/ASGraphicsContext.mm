@@ -6,11 +6,11 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASGraphicsContext.h>
-#import <AsyncDisplayKit/ASCGImageBuffer.h>
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASConfigurationInternal.h>
-#import <AsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASGraphicsContext.h>
+#import <GDKAsyncDisplayKit/ASCGImageBuffer.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASConfigurationInternal.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
 #import <UIKit/UIGraphics.h>
 #import <UIKit/UIImage.h>
 #import <objc/runtime.h>

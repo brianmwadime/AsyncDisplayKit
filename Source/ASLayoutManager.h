@@ -8,7 +8,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
 
 AS_SUBCLASSING_RESTRICTED
 @interface ASLayoutManager : NSLayoutManager

@@ -11,9 +11,9 @@
 
 #import <UIKit/UIKit.h>
 #import <UIKit/UIGeometry.h>
-#import <AsyncDisplayKit/ASAvailability.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

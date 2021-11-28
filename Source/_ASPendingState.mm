@@ -9,12 +9,12 @@
 
 #import "_ASPendingState.h"
 
-#import <AsyncDisplayKit/_ASCoreAnimationExtras.h>
-#import <AsyncDisplayKit/_ASAsyncTransactionContainer.h>
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASEqualityHelpers.h>
+#import <GDKAsyncDisplayKit/_ASCoreAnimationExtras.h>
+#import <GDKAsyncDisplayKit/_ASAsyncTransactionContainer.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASEqualityHelpers.h>
 #import "ASDisplayNodeInternal.h"
-#import <AsyncDisplayKit/ASInternalHelpers.h>
+#import <GDKAsyncDisplayKit/ASInternalHelpers.h>
 
 #define __shouldSetNeedsDisplay(layer) (flags.needsDisplay \
   || (flags.setOpaque && opaque != (layer).opaque)\

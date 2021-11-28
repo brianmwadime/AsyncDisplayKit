@@ -6,9 +6,9 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#import <AsyncDisplayKit/ASExperimentalFeatures.h>
+#import <GDKAsyncDisplayKit/ASExperimentalFeatures.h>
 
-#import <AsyncDisplayKit/ASCollections.h>
+#import <GDKAsyncDisplayKit/ASCollections.h>
 
 NSArray<NSString *> *ASExperimentalFeaturesGetNames(ASExperimentalFeatures flags)
 {

@@ -12,11 +12,11 @@
 #import <os/lock.h>
 #import <pthread.h>
 
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASAvailability.h>
-#import <AsyncDisplayKit/ASBaseDefines.h>
-#import <AsyncDisplayKit/ASConfigurationInternal.h>
-#import <AsyncDisplayKit/ASRecursiveUnfairLock.h>
+#import <GDKAsyncDisplayKit/ASAssert.h>
+#import <GDKAsyncDisplayKit/ASAvailability.h>
+#import <GDKAsyncDisplayKit/ASBaseDefines.h>
+#import <GDKAsyncDisplayKit/ASConfigurationInternal.h>
+#import <GDKAsyncDisplayKit/ASRecursiveUnfairLock.h>
 
 ASDISPLAYNODE_INLINE AS_WARN_UNUSED_RESULT BOOL ASDisplayNodeThreadIsMain()
 {

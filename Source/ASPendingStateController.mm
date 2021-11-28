@@ -8,8 +8,8 @@
 //
 
 #import "ASPendingStateController.h"
-#import <AsyncDisplayKit/ASThread.h>
-#import <AsyncDisplayKit/ASWeakSet.h>
+#import <GDKAsyncDisplayKit/ASThread.h>
+#import <GDKAsyncDisplayKit/ASWeakSet.h>
 #import "ASDisplayNodeInternal.h" // Required for -applyPendingViewState; consider moving this to +FrameworkPrivate
 
 @interface ASPendingStateController()

@@ -10,7 +10,7 @@
 #pragma once
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASDimension.h>
+#import <GDKAsyncDisplayKit/ASDimension.h>
 
 @class ASLayout;
 

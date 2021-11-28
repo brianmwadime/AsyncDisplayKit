@@ -11,8 +11,8 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASDimension.h>
-#import <AsyncDisplayKit/ASLayoutElement.h>
+#import <GDKAsyncDisplayKit/ASDimension.h>
+#import <GDKAsyncDisplayKit/ASLayoutElement.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

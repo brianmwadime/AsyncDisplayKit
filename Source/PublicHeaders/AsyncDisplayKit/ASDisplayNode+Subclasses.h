@@ -8,9 +8,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASBlockTypes.h>
-#import <AsyncDisplayKit/ASDisplayNode.h>
-#import <AsyncDisplayKit/ASDisplayNode+LayoutSpec.h>
+#import <GDKAsyncDisplayKit/ASBlockTypes.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode.h>
+#import <GDKAsyncDisplayKit/ASDisplayNode+LayoutSpec.h>
 
 @class ASLayoutSpec, _ASDisplayLayer;
 
