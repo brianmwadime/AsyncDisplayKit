@@ -11,8 +11,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/donik/AsyncDisplayKit.git", :tag => s.version }
   s.source_files  = [
-    "Source/*.{h,m,swift}",
-    "Source/PublicHeaders/**/*.{h,m,swift}"
+    "Source/*.{h,m,swift}"
   ]
   s.requires_arc = true
 end
