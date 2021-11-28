@@ -7,10 +7,6 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
-#ifndef MINIMAL_ASDK
-#define MINIMAL_ASDK 1
-#endif
-
 #import <GDKAsyncDisplayKit/ASAvailability.h>
 #import <GDKAsyncDisplayKit/ASBaseDefines.h>
 #import <GDKAsyncDisplayKit/ASDisplayNode.h>

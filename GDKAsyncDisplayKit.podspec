@@ -12,5 +12,4 @@ Pod::Spec.new do |s|
   s.public_header_files = "Source/PublicHeaders/AsyncDisplayKit/*.h"
   s.private_header_files = "Source/*.h"
   s.frameworks = "Foundation", "UIKit", "QuartzCore", "CoreMedia", "CoreText", "CoreGraphics"
-  s.requires_arc = true
 end
