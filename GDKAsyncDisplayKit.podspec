@@ -10,6 +10,9 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "10.0"
 
   s.source       = { :git => "https://github.com/donik/AsyncDisplayKit.git", :tag => s.version }
-  s.source_files  = "Source/*.{h,m,swift}"
+  s.source_files  = [
+    "Source/*.{h,mm,m,swift}",
+    "Source/PublicHeaders/**/*.{h,mm,m,swift}"
+  ]
   s.requires_arc = true
 end
