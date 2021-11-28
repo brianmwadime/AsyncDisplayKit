@@ -14,6 +14,5 @@ Pod::Spec.new do |s|
     "Source/*.{h,m,swift}",
     "Source/PublicHeaders/**/*.{h,m,swift}"
   ]
-  s.ios.public_header_files = "Source/PublicHeaders/AsyncDisplayKit/*.{h}"
   s.requires_arc = true
 end
