@@ -3602,13 +3602,6 @@ ASDISPLAYNODE_INLINE BOOL subtreeIsRasterized(ASDisplayNode *node) {
     [result addObject:@{ @"alpha" : @(_pendingViewState.alpha) }];
     [result addObject:@{ @"frame" : [NSValue valueWithCGRect:_pendingViewState.frame] }];
   }
-#ifndef MINIMAL_ASDK
-  // Check supernode so that if we are a cell node we don't find self.
-  ASCellNode *cellNode = [self supernodeOfClass:[ASCellNode class] includingSelf:NO];
-  if (cellNode != nil) {
-    [result addObject:@{ @"cellNode" : ASObjectDescriptionMakeTiny(cellNode) }];
-  }
-#endif
   
   [result addObject:@{ @"interfaceState" : NSStringFromASInterfaceState(self.interfaceState)} ];
   
