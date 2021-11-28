@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GDKAsyncDisplayKit"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "AsyncDisplayKit"
   s.homepage     = "https://github.com/donik/AsyncDisplayKit"
   s.license      = "MIT"
@@ -14,7 +14,6 @@ Pod::Spec.new do |s|
     "Source/*.{h,m,swift}",
     "Source/PublicHeaders/**/*.{h,m,swift}"
   ]
-  s.public_header_files = "Source/PublicHeaders/**/*.{h,m,swift}"
+  s.ios.public_header_files = "Source/PublicHeaders/AsyncDisplayKit/*.{h}"
   s.requires_arc = true
-
 end
