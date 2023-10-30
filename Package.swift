@@ -15,7 +15,7 @@ let package = Package(
         .target(
             name: "GDKAsyncDisplayKit",
             dependencies: [],
-            path: "Source",
+            // path: "Source",
             // publicHeadersPath: ".",
             cSettings: [
                 .headerSearchPath("Source")
