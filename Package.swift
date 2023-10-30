@@ -4,24 +4,18 @@
 import PackageDescription
 
 let package = Package(
-    name: "AsyncDisplayKit",
+    name: "GDKAsyncDisplayKit",
     platforms: [.iOS(.v14)],
     products: [
         .library(
-            name: "AsyncDisplayKit",
-            targets: ["AsyncDisplayKit"]),
+            name: "GDKAsyncDisplayKit",
+            targets: ["GDKAsyncDisplayKit"]),
     ],
     targets: [
         .target(
-            name: "AsyncDisplayKit",
+            name: "GDKAsyncDisplayKit",
             dependencies: [],
-            path: "AsyncDisplayKit",
-            exclude: [
-            "Info.plist"
-        ]
-        ),
-        .testTarget(
-            name: "AsyncDisplayKitTests",
-            dependencies: ["AsyncDisplayKit"]),
+            path: "Source"
+        )
     ]
 )
