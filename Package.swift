@@ -18,7 +18,7 @@ let package = Package(
             path: "Source",
             // publicHeadersPath: ".",
             cSettings: [
-                .headerSearchPath("../../")
+                .headerSearchPath("Source")
             ]
         )
     ]
